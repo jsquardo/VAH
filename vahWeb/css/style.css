@@ -398,7 +398,7 @@ Last change:12th February 2019
     /* IE6-9 */
 }
  .overlay-parallax-slider .ls-bg-wrap:after, .overlay-parallax-slider .ls-slide-transition-wrapper:before {
-     background:rgba(0, 0, 0, 0.55);
+     background:rgba(0, 0, 0, 0.20);
 }
  .header-text.full-width{
      max-width: 100%!important;
