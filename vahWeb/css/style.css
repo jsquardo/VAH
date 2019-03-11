@@ -314,7 +314,7 @@ Last change:12th February 2019
      padding: 0px;
 }
  .top-bar a {
-     color: #fff;
+     color: #4f4a44;
 }
  .top-bar .contact-details li:first-child {
      margin-left: 0px;
@@ -327,7 +327,7 @@ Last change:12th February 2019
      display: inline-block;
      line-height: 42px;
      font-weight: 600;
-     color:#fff;
+     color:#4f4a44;
      padding: 0px 20px;
 }
 /* top-bar Social icons */
