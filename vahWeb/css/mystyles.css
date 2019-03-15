@@ -17,9 +17,17 @@
 .tripple-sec {
   color: #7aad84;
   text-align: center;
-  padding-bottom: 40px;
+  padding-bottom: 30px;
 }
 
 .main-img {
   transform: none !important;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 85px;
+  margin-bottom: 25px;
 }
